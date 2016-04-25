@@ -1,0 +1,9 @@
+
+library/build
+library/library.iml
+sample/build
+sample/sample.iml
+.idea
+build
+android-auto-update.iml
+local.properties
